@@ -1,1 +1,14 @@
-<input type ="text" onkeydown ="alert('key down!')">
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>javascript</h1>
+    <script>
+      document.write('helloworld');
+      </script>
+      <input type='button' value="페이지 설명" onclick="alert('이 페이지는 내가 제작한 페이지 입니다.')">
+      </body>
+  </html>
